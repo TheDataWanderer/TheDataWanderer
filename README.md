@@ -54,8 +54,8 @@
 
 ## 🔗 Links
 - 🌐 **Личный сайт:** *скоро*  
-- 💼 **LinkedIn:** ссылка  
-- ✉️ **Email:** your@email  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/nefatov/  
+- ✉️ **Email:** nefatovmaksim@gmail.com  
 - 📣 **Telegram (хобби-канал):** опционально
 
 ---
