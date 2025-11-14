@@ -1,16 +1,67 @@
-## Hi there 👋
+### 👋 Привет! Я — Data Engineer
 
-<!--
-**TheDataWanderer/TheDataWanderer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Data Engineer с 5-летним опытом в сфере данных.**  
+В IT пришёл осознанно в 35 лет, перешёл из закупок → в аналитику → и затем в дата-инжиниринг.  
+Сейчас развиваюсь в построении надёжных ETL/ELT-пайплайнов, работе с DWH, автоматизацией и обработкой больших данных.  
 
-Here are some ideas to get you started:
+🔗 **Мой сайт (GitHub Pages):** *скоро здесь будет ссылка*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 About me
+- Работаю Data Engineer, ранее — аналитик данных.  
+- Крепко стою в SQL, Python, Airflow, dbt, PostgreSQL и инструментальном облаке.  
+- Постоянно обучаюсь: Stepik, LeetCode, книги по архитектуре и данным.  
+- Веду небольшой pet-project: обучаю финансовой грамотности (как хобби).  
+- Люблю системный подход, автоматизацию и проектирование процессов.
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages & Tools:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white)
+![DBT](https://img.shields.io/badge/dbt-F73000?logo=dbt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
+## 📦 Projects
+
+### 🔹 **Учебные курсы (Excel + PostgreSQL)**  
+Материалы, которые я делал для коллег:  
+- 📘 [Курс по Excel](ссылка)  
+- 🐘 [Курс по PostgreSQL](ссылка)
+
+### 🔹 **Pet-projects**  
+- ⚙️ [Automated ETL Pipeline (Python + Airflow)](ссылка)  
+- 🗄️ [Mini DWH + dbt модель](ссылка)  
+- 🔍 [Data Quality Checks Toolkit](ссылка)
+
+*(Список будет расширяться)*
+
+---
+
+## 📚 Courses & Learning
+- Постоянно прохожу обучения по SQL, Python и инженерии данных  
+- Stepik, LeetCode, книги по data engineering  
+- 📝 *Список всех пройденных курсов (ссылка на GitHub Pages)*
+
+---
+
+## 🔗 Links
+- 🌐 **Личный сайт:** *скоро*  
+- 💼 **LinkedIn:** ссылка  
+- ✉️ **Email:** your@email  
+- 📣 **Telegram (хобби-канал):** опционально
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=default)
+
