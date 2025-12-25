@@ -31,11 +31,3 @@
 - ✉️ [**Email:**](nefatovmaksim@gmail.com)
 - 📣 [**Telegram канал:**](https://t.me/+4LfYIRkptTE3MGMy)
 
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TheDataWanderer&show_icons=true&theme=default)
-
-<img src="https://github-readme-stats.vercel.app/api?username=TheDataWanderer&show_icons=true&theme=default" alt="GitHub Stats" />
-
