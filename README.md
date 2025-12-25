@@ -4,19 +4,16 @@
 В IT пришёл осознанно в 35 лет, перешёл из коммерческих закупок в аналитику и затем в дата-инжиниринг.  
 Сейчас развиваюсь в построении надёжных ETL/ELT-пайплайнов, работе с DWH, автоматизацией и обработкой больших данных.  
 
-🔗 **Мой сайт:** https://dehandbook.ru/
+🔗 [Мой сайт](https://dehandbook.ru/)
 
 ---
-
 ## 🧩 About me
-- Работаю Data Engineer, ранее — аналитик данных.  
-- Крепко стою в SQL, Python, Airflow, PostgreSQL.  
+- Работаю Data Engineer, ранее - аналитик данных.  
+- Крепко стою в PostgreSQL, Python, Airflow.  
 - Постоянно обучаюсь: Stepik, LeetCode, книги по архитектуре и данным.  
-- Веду небольшой pet-project: обучаю финансовой грамотности (как хобби).
 - Люблю системный подход, автоматизацию и проектирование процессов.
 
 ---
-
 ## ⚙️ Tech Stack
 
 **Languages & Tools:**  
@@ -28,39 +25,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
-
-## 📦 Projects
-
-### 🔹 **Учебные курсы**  
-Материалы, которые я делал для коллег:  
-- 📘 [Курс по Excel](https://github.com/TheDataWanderer/vink_lessons_excel)
-- 🐘 [Курс по PostgreSQL](https://github.com/TheDataWanderer/vink_lessons_sql)
-
-### 🔹 **Pet-projects**  
-- ⚙️ [***](ссылка)  
-- 🗄️ [***](ссылка)  
-- 🔍 [***](ссылка)
-
-*(Список будет расширяться)*
-
----
-
-## 📚 Courses & Learning
-- Постоянно прохожу обучения по SQL, Python и инженерии данных  
-- Stepik, LeetCode, книги по data engineering  
-- 📝 *Список всех пройденных курсов (ссылка на GitHub Pages)*
-
----
-
 ## 🔗 Links
-- 🌐 **Личный сайт:** *скоро*  
+- 🌐 [**Личный сайт:**](https://dehandbook.ru/)
 - 💼 [**LinkedIn:**](https://www.linkedin.com/in/nefatov/)
 - ✉️ [**Email:**](nefatovmaksim@gmail.com)
-- 📣 **Telegram (хобби-канал):** опционально
+- 📣 [**Telegram канал:**](https://t.me/+4LfYIRkptTE3MGMy)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=TheDataWanderer&show_icons=true&theme=default)
 
