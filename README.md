@@ -1,33 +1,41 @@
-### Привет! Я - Data Engineer
+# Привет! Меня зовут Максим
 
-👨‍💻 **Data Engineer с 4+ летним опытом.**  
-В IT пришёл осознанно в 35 лет, перешёл из коммерческих закупок в аналитику и затем в дата-инжиниринг.  
-Сейчас развиваюсь в построении надёжных ETL/ELT-пайплайнов, работе с DWH, автоматизацией и обработкой больших данных.  
+Я Data Engineer с опытом более 4 лет.
 
-🔗 [Мой сайт](https://dehandbook.ru/)
+Работаю с хранилищами данных, проектирую ETL и ELT процессы, автоматизирую обработку данных и развиваю внутренние инструменты.
 
----
-## 🧩 About me
-- Работаю Data Engineer, ранее - аналитик данных.  
-- Крепко стою в PostgreSQL, Python, Airflow.  
-- Постоянно обучаюсь: Stepik, LeetCode, книги по архитектуре и данным.  
-- Люблю системный подход, автоматизацию и проектирование процессов.
+В IT пришёл в 35 лет. Начинал с аналитики данных после карьеры в коммерческих закупках, затем перешёл в дата инженерию.
 
----
-## ⚙️ Tech Stack
+## Основной стек
 
-**Languages & Tools:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+`Python` `SQL` `PostgreSQL` `Apache Airflow` `Docker` `Git`
 
----
-## 🔗 Links
-- 🌐 [**Сайт:**](https://dehandbook.ru/)
-- 💼 [**LinkedIn:**](https://www.linkedin.com/in/nefatov/)
-- ✉️ [**Email:**](nefatovmaksim@gmail.com)
-- 📣 [**Telegram канал:**](https://t.me/+4LfYIRkptTE3MGMy)
+## Мои проекты
 
+### [DE Handbook](https://dehandbook.ru/)
+
+Моя база знаний по Data Engineering. Собираю в ней практические материалы, заметки и решения задач, с которыми сталкиваюсь в работе и обучении.
+
+[Исходный код](https://github.com/TheDataWanderer/my_site_dehandbook)
+
+### [Philumenist](https://github.com/TheDataWanderer/my_project_philumenist)
+
+Django приложение для коллекционеров спичечных коробков и этикеток. Проект предназначен для хранения, описания и обмена коллекциями.
+
+### [PhotoSorter](https://github.com/TheDataWanderer/my_project_photosorter)
+
+Инструмент на Python для автоматической организации и сортировки коллекций фотографий.
+
+## Сейчас мне интересно
+
+Архитектура хранилищ данных, качество данных, надёжность пайплайнов, автоматизация процессов и развитие инженерной культуры.
+
+## Контакты
+
+[Сайт](https://dehandbook.ru/)
+
+[LinkedIn](https://www.linkedin.com/in/nefatov/)
+
+[Telegram канал](https://t.me/+4LfYIRkptTE3MGMy)
+
+[Email](mailto:nefatovmaksim@gmail.com)
