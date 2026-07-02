@@ -18,14 +18,6 @@
 
 [Исходный код](https://github.com/TheDataWanderer/my_site_dehandbook)
 
-### [Philumenist](https://github.com/TheDataWanderer/my_project_philumenist)
-
-Django приложение для коллекционеров спичечных коробков и этикеток. Проект предназначен для хранения, описания и обмена коллекциями.
-
-### [PhotoSorter](https://github.com/TheDataWanderer/my_project_photosorter)
-
-Инструмент на Python для автоматической организации и сортировки коллекций фотографий.
-
 ## Сейчас мне интересно
 
 Архитектура хранилищ данных, качество данных, надёжность пайплайнов, автоматизация процессов и развитие инженерной культуры.
